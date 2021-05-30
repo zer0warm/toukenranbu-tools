@@ -1,0 +1,7 @@
+= Touken Ranbu personal tools collection
+
+== What/Why/How?
+I wrote these in my free time. For personal interest. Tested on Windows. Used tkinter as GUI framework.
+
+== Features
+* Choose a sword type, generate its recipe
